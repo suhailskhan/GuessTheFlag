@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FD3E338628B6D23900627F8D /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = FD3E338528B6D23900627F8D /* screenshot.png */; };
 		FD65E95C2896CCB900965645 /* GuessTheFlagApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD65E95B2896CCB900965645 /* GuessTheFlagApp.swift */; };
 		FD65E95E2896CCB900965645 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FD65E95D2896CCB900965645 /* ContentView.swift */; };
 		FD65E9602896CCB900965645 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FD65E95F2896CCB900965645 /* Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FD3E338528B6D23900627F8D /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		FD65E9582896CCB900965645 /* GuessTheFlag.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GuessTheFlag.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FD65E95B2896CCB900965645 /* GuessTheFlagApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GuessTheFlagApp.swift; sourceTree = "<group>"; };
 		FD65E95D2896CCB900965645 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 			isa = PBXGroup;
 			children = (
 				FD8322E2289F82B4006DB1E3 /* README.md */,
+				FD3E338528B6D23900627F8D /* screenshot.png */,
 				FD65E95A2896CCB900965645 /* GuessTheFlag */,
 				FD65E9592896CCB900965645 /* Products */,
 			);
@@ -131,6 +134,7 @@
 				FD8322E3289F82B5006DB1E3 /* README.md in Resources */,
 				FD65E9632896CCB900965645 /* Preview Assets.xcassets in Resources */,
 				FD65E9602896CCB900965645 /* Assets.xcassets in Resources */,
+				FD3E338628B6D23900627F8D /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
